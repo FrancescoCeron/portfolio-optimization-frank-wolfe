@@ -44,3 +44,8 @@ Some of the main results obtained during the analysis:
 - Projection-Free Optimization
 - Numerical Optimization
 - Sparse Optimization
+
+## Authors
+- Ceron Francesco
+- Cavaliero Emanuele
+- Bonin Giorgia
